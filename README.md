@@ -2,10 +2,18 @@
 
 cleanblog-child is a WordPress Child Theme for the [Clean Blog](https://github.com/deviodigital/cleanblog) WordPress theme by [Robert DeVore](http://www.robertdevore.com/)
 
+**current version:** 1.0.1
+
 ## Files
 
 - **style.css** which is empty and ready for your custom styles!
 - **functions.php** which enqueues the `cleanblog` stylesheet and also adds in function samples for all action hooks in the `cleanblog` theme
+
+### Automatic Updates
+
+This theme will automatically let you know in your WordPress dashboard when there are updates.
+
+**Please note:** [The Github Updater](https://github.com/afragen/github-updater) plugin is required in order to receive these updates.
 
 ### License
 
